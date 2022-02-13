@@ -1,5 +1,5 @@
 class Simple {
 	Public static void main (string arg[]){
-	System.Out.Println ("Hello Edureka!");
+	System.Out.Println ("Hello Edurek!");
 	}
 }
